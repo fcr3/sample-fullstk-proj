@@ -1,5 +1,4 @@
 node_modules/
-keys.js
 info.txt
-config/
+config/dev.js
 other/
